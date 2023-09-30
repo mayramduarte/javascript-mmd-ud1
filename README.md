@@ -25,6 +25,6 @@
 /ch029.js" target="_blank" >Challenge-029 (Desafio-029)</a></li>
 <li><a href="https://mayramduarte.github.io/javascript-mmd-ud1/8-javascript-loops/ch035
 /ch035.js" target="_blank">Challenge-035 (Desafio-035)</a></li>
-<li><a href="javascript-mmd-ud1/9-introduction-to functional-programming
-/ch043" target="_blank">Challenge-043 (Desafio-043)</a></li>
+<li><a href="javascript-mmd-ud1/9-introduction-to functional-programming/ch043
+/ch043.js" target="_blank">Challenge-043 (Desafio-043)</a></li>
 </ul>
