@@ -21,10 +21,8 @@
 <ul>
 <li><a href="https://mayramduarte.github.io/javascript-mmd-ud1/6-introduction-to-pair-programming
 /ch020/ch020.js" target="_blank">Challenge-020 (Desafio-020)</a></li>
-<li><a href="https://mayramduarte.github.iojavascript-mmd-ud1/javascript-mmd-ud1/7-control-flow/ch029
-/ch029.js" target="_blank" >Challenge-029 (Desafio-029)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-ud1/7-control-flow/ch029/ch029.js" target="_blank">Challenge-029 (Desafio-029)</a></li>
 <li><a href="https://mayramduarte.github.io/javascript-mmd-ud1/8-javascript-loops/ch035
 /ch035.js" target="_blank">Challenge-035 (Desafio-035)</a></li>
-<li><a href="javascript-mmd-ud1/9-introduction-to functional-programming/ch043
-/ch043.js" target="_blank">Challenge-043 (Desafio-043)</a></li>
+<li><a href="https://mayramduarte.github.io/javascript-mmd-ud1/9-introduction-to functional-programming/ch043/ch043.js" target="_blank">Challenge-043 (Desafio-043)</a></li>
 </ul>
